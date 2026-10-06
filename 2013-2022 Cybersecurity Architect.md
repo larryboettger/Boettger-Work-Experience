@@ -34,8 +34,24 @@ As a cybersecurity architect from 2013-2022 for various organizations (Three Pil
 
 * Conducted penetration testing and social engineering exercises.
 
-* Implemented Service Now GRC.
-
 * Created and implemented AI acceptable use policies and standards.
 
 * Project manager for security initiatives.
+
+* Implemented Service Now GRC.
+
+* Led penetration test and remediation activities that included:
+  - Active Directory security enhancements
+  - Application security configuration best practices (OWASP)
+  - SIEM, SOAR, SOC and Threat Monitoring enhancements
+  - Network segmentation (CheckPoint/Cisco firewall access control list and Cisco ISE improvements)
+  - Overall IT component best practice configurations using CIS and NIST best practices guides
+  -  Led Log4j mitigation activities
+* Designed and implemented:
+  - Identity & Access Management System (Okta)
+  - Privileged Access Management System (Thycotic)
+  - Application Security Scanner (Synopsis)
+  - Salesforce Shield
+* Designed:
+  - Zero Trust Architecture including: Zscaler, Cisco Viptela, Splunk, Palo Alto, SentinelOne and Attivo
+  - Cloud security roadmap for AWS and Azure cybersecurity controls
