@@ -1,4 +1,4 @@
-As an infrastructure manager in 2000:
+As an infrastructure manager in 2000 for a medical equipment manufacturing organization:
 
 * Managed daily operations of WAN and LAN hardware and software. 
 
