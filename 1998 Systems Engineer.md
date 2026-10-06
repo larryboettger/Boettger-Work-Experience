@@ -1,6 +1,6 @@
 As a systems engineer for a computer services company:
 
-* Consulted with salespeople and clients in design, installation, security and administration of mid and enterprise sized clients. 
+* Consulted with salespeople and clients in design, installation, security and administration of mid and enterprise sized network infrastructures. 
 
 * Investigated, tested and recommended security solutions and network security products. 
 
