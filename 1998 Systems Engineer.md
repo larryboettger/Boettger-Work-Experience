@@ -1,4 +1,4 @@
-As a systems engineer for a computer services company:
+As a systems engineer in 1998 for a computer services company:
 
 * Consulted with salespeople and clients in design, installation, security and administration of mid and enterprise sized network infrastructures. 
 
