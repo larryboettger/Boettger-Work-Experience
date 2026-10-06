@@ -1,6 +1,6 @@
 As an information security analyst for a global insurance company in 2011-2012:
 
-* Conducted or coordinated risk assessments, vulnerability scans, and penetration tests on systems, document findings, and recommend risk mitigation strategies.
+* Conducted and coordinated risk assessments, vulnerability scans, and penetration tests on systems, document findings, and recommend risk mitigation strategies.
   
 * Assisted in projects that develop and implement security standards, procedures and guidelines for multiple platforms and diverse systems environments.
   
