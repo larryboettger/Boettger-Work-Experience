@@ -10,9 +10,13 @@ As an infrastructure manager in 2000:
 
 * Provided computer security for the organization against inside and outside threats.
 
-* Authored and enforced standards and policies for network computer, Internet, and e-mail usage. 
+* Authored and enforced standards and policies for network computer, internet, and e-mail usage. 
 
-* Wrote formal proposals on upgrade options to IT Director for presentations to the board of directors. Wrote project list and job duties. Hired and fired IT personnel. 
+* Wrote formal proposals on upgrade options to IT Director for presentations to the board of directors. 
+
+* Wrote project list and job duties. 
+
+* Hired and fired IT personnel. 
 
 * Audited security logs. 
 
