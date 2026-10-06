@@ -2,7 +2,7 @@
 * CISSP
 * CISA
 
-  **Past**
+**Past**
 * PCI QSA
 * ITIL v3
 * SANS GSEC
