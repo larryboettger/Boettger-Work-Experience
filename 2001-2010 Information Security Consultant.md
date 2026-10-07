@@ -10,7 +10,7 @@ As an information security consultant from 2001-2010 for various IT and security
 
 * Designed and conducted cybersecurity awareness training programs.
 
-* Provided incident handling and digital forensics services (in 2023 was one of the technical leads that identified and enabled Stoughton Schools to take action for students gaining unauthorized access to the grading system).
+* Provided incident handling and digital forensics services (in 2003 was one of the technical leads that identified and enabled Stoughton Schools to take action for students gaining unauthorized access to the grading system).
 
 * Provided Business Continuity and Disaster Recovery consulting services.
 
