@@ -3,7 +3,7 @@
 | Cisco Networking                                                           |                  29 |
 | Compliance Policy / Procedure Writing                                      |                  29 |
 | Cybersecurity Technology Mechanisms (Firewalls, MFA, IPS, SIEM, etc.)      |                  29 |
-| Microsoft Operating Systems                                                |                  28 |
+| Microsoft Operating Systems                                                |                  29 |
 | Microsoft Productivity Applications (Word, Excel, PowerPoint, Visio, etc.) |                  28 |
 | Project Management                                                         |                  26 |
 | Public Speaking (Board Presentations, Seminars / Webinars, etc.)           |                  26 |
