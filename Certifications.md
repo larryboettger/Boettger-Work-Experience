@@ -1,6 +1,7 @@
 **Present**
 * CISSP
 * CISA
+* AAISM
 
 **Past**
 * PCI QSA
